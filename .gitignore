@@ -1,0 +1,14 @@
+# Settings
+**/.vscode
+**/*.code-workspace
+
+# Generated contents
+**/Binaries
+**/Intermediate
+**/Saved
+
+# Others
+**/Content/__ExternalActors__
+**/Content/__ExternalObjects__
+**/DerivedDataCache
+**/**.psd

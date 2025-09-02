@@ -1,0 +1,35 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 5,
+	"VersionName": "2.2.0",
+	"FriendlyName": "Rotary-Wing Aircraft",
+	"Description": "A plugin for helicopter simulation",
+	"Category": "Gameplay",
+	"CreatedBy": "Danny McGee",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "RotaryWingAircraft",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "RotaryWingAircraftEditor",
+			"Type": "UncookedOnly",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "EnhancedInput",
+			"Enabled": true
+		}
+	]
+}
